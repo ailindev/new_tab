@@ -12,7 +12,6 @@
 // ≥1200px
 @include media-breakpoint-down(lg) {
   .cart-block {
-    margin-bottom: 20px;
     height: 250px;
   }
 }
